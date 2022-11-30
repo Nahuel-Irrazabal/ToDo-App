@@ -1,0 +1,14 @@
+body{
+    width: 85%;
+    margin: auto;
+    padding: 20px;
+    height: 100vh;
+    background-color: #e9ecef;
+}
+button{
+    margin-right: 10px;
+}
+.bg-li{
+    background-color: #e9ecef;
+    border: none;
+}
